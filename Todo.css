@@ -1,0 +1,60 @@
+
+body{
+    background-color: rgb(3, 24, 24);
+    font-family: 'Poppins', sans-serif;
+    background-image: url(https://t4.ftcdn.net/jpg/06/47/61/07/240_F_647610750_Un45pkByBF8vUpM6afK1bEp6lgL0X5ON.jpg); */
+    /* background-image: linear-gradient(100deg, #575656, #062e3f); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%  
+}
+ .container{
+    width: 400px;
+    padding: 33px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 25px;
+    height: 100% ;
+    justify-content: center;
+
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 19px;
+    border-radius: 10px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(3, 25, 25);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+  
+}
+ .todo{
+    color: rgb(5, 215, 7);
